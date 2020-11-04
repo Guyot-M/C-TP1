@@ -1,3 +1,6 @@
+# TP 1
+* Les algorithmes de ce TP sont disponibles [ici](./src)
+
 # Bibliothèques
 * stdio.h
 
@@ -16,4 +19,5 @@
 * boucle.c le code commenté est pour la première partie de la question.
 * Vous pouvez retrouver l'ensemble des TPs sur [mon git](https://github.com/Guyot-M?tab=repositories)
 
-
+# Contributeurs
+* Tous les contributeurs de ce TP sont listés [ici](./CONTRIBUTORS.md)
