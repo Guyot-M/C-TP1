@@ -4,6 +4,7 @@ int main() {
   int a = 0;
   int b = 3;
 
+  //Affichage de calcule avec différent opérateur
   printf("--------------Opérateur Arithmétiques---------------\n");
   printf("a + b = %i \n",a + b);
   printf("a - b = %i \n",a - b);

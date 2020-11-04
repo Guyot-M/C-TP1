@@ -6,6 +6,9 @@ int main()
 	int num1 = 10;
 	int num2 = 0;
 	int res;
+
+	//Affichage d'un calcule en fonction de l'opérateur choisie
+
 	switch (op)
 	{
 		case '+':

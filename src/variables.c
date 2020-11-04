@@ -16,6 +16,7 @@ int main() {
     unsigned long int uli = 1000;
     unsigned long long int ulli = 100000;
 
+    //Affichage de valeur de varibale signé
     printf("--------------Signed---------------\n");
     printf("char %c\n", c);
     printf("short %d\n", s);
@@ -26,6 +27,7 @@ int main() {
     printf("double %f\n",  d);
     printf("long double %Lf\n\n", ld); 
 
+    //Affichage de valeur de varibale non signé
     printf("--------------Unsigned---------------\n");
     printf("unsigned char %c\n", uc);
     printf("unsigned short %d\n", us);

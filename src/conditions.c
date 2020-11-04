@@ -2,6 +2,9 @@
 
 int main() {
 
+
+    /*On utilise le modulo pour savoir si un nombre est divisible par un autre.*/
+
     printf("--- Divisible par 2 et 15 -----\n");
     int i;
     for (i=1;i<=1000;i++)

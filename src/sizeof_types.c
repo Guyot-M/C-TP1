@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main() {
+
+  //Taille des type signé
   printf("--------------Signed---------------\n");
   printf("char %ld\n", sizeof(char));
   printf("short %ld\n", sizeof(short));
@@ -12,6 +14,7 @@ int main() {
   long double ld;
   printf("long double %ld\n\n", sizeof(ld));
 
+  //Taille des type non signé
   printf("--------------Unsigned---------------\n");
   printf("unsigned char %ld\n", sizeof(unsigned char));
   printf("unsigned short %ld\n", sizeof(unsigned short));
